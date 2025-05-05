@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.sep {
+  border-radius: 7px;
+  border: 2px solid
+    linear-gradient(
+      90deg,
+      #eaecf0 0%,
+      #d0d5dd 25%,
+      #eaecf0 64.78%,
+      #d0d5dd 100%
+    );
+
+  background: #fff;
+  display: flex;
+  height: 154px;
+  padding: 11.895px 114px 11.105px 13px;
+  align-items: center;
+  align-self: stretch;
+}
+.price {
+  color: #027a48;
+}

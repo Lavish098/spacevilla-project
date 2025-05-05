@@ -1,0 +1,46 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Modern Downtown Apartment",
+      "address": "123 Main St, Downtown",
+      "price": 450000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1200,
+      "type": "sale",
+      "status": "available",
+      "images": [
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1769-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1769-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1773-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1789-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1814-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1831-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1833-scaled.jpg"
+      ],
+      "description": "This beautiful modern apartment is located in the heart of downtown, offering easy access to shops, restaurants, and public transportation. With spacious living areas and contemporary finishes, it is perfect for urban living."
+    },
+    {
+      "id": "2",
+      "title": "Modern Downtown Apartment",
+      "address": "123 Main St, Downtown",
+      "price": 450000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1200,
+      "type": "sale",
+      "status": "available",
+      "images": [
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1769-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1769-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1773-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1789-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1814-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1831-scaled.jpg",
+        "https://www.smaartvacation.com/wp-content/uploads/2020/03/9N1A1833-scaled.jpg"
+      ],
+      "description": "This beautiful modern apartment is located in the heart of downtown, offering easy access to shops, restaurants, and public transportation. With spacious living areas and contemporary finishes, it is perfect for urban living."
+    }
+  ]
+}
