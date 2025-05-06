@@ -59,7 +59,7 @@ const HowItWorks = () => {
           </div>
 
           {/* Video */}
-          <div className="hidden w-[425px] h-[850px] overflow-hidden lg:left-[300px] lg:top-[267.70px] xl:left-[470px] xl:top-[167.70px] lg:block absolute">
+          <div className="hidden w-[425px] h-[850px] overflow-hidden lg:left-[300px] lg:top-[267.70px] xl:left-[550px] xl:top-[167.70px] lg:block absolute">
             {/* Phone in center */}
             <div className="relative flex justify-center">
               <div className="lg:w-[350px] xl:w-[425px] relative">
@@ -159,7 +159,7 @@ const HowItWorks = () => {
         {/* arrows */}
 
         {/* First arrow */}
-        <div className="w-full z-10 absolute hidden lg:block left-[-2%] top-[0px]">
+        <div className="w-full z-10 absolute hidden lg:block left-[-13%] top-[0px]">
           <svg
             width="100%" // Increased width for a longer arrow
             height="100"
@@ -169,7 +169,7 @@ const HowItWorks = () => {
           >
             <path
               id="arrowPath"
-              d="M10 50 L400 50" // Straight line, longer length
+              d="M10 50 L600 50" // Straight line, longer length
               stroke="#34d399"
               strokeWidth="3"
               fill="none"
